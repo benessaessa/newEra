@@ -13,7 +13,7 @@ body{
 }
 .step1,.step2{
     box-shadow: 0 2px 18px 1px rgba(49, 53, 72, 0.1);
-    padding: 1rem 1rem 2rem 1rem;
+    padding: 1rem 1.2rem 1.2rem 1.2rem;
     background-color: white;
 }
 .linkS:hover{
