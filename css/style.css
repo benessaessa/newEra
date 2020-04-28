@@ -2,6 +2,9 @@ body{
     font-family: Montserrat;
     background-color: #ecebeb;
 }
+.clean{
+    border-radius: 5px;
+}
 .form-control{
     min-height: 50px;
 }
