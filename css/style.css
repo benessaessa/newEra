@@ -1,0 +1,13 @@
+body{
+    font-family: Montserrat;
+    background-color: #ffffff;
+}
+.form-control{
+    min-height: 50px;
+}
+.step2{
+    display: none;
+}
+.custom-control-label:hover{
+    cursor: pointer;
+}
